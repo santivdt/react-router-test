@@ -5,5 +5,5 @@
     { "src": "/(.*)", "dest": "/api" }
   ],
   "buildCommand": "react-router build",
-  "outputDirectory": ".vercel/output"
+  "outputDirectory": "build"
 }
